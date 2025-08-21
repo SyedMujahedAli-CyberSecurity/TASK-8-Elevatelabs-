@@ -1,0 +1,81 @@
+﻿Name : Syed Mujahed Ali
+
+
+Task 8 : Using a VPN to Secure Internet Traffic
+
+
+Objective: Learn how to install, configure, and test a VPN connection to ensure anonymity and secure browsing.
+
+
+Tools: iTop VPN (Free version), Web browser (Microsoft Edge/Chrome), WhatIsMyIPAddress.com
+
+
+Deliverables: Verification of IP address change, screenshots of successful VPN connection, summary of VPN benefits and limitations.
+
+
+VPN Setup and Testing — Steps Taken
+
+
+1. Choose a reputable free VPN service
+ I selected iTop VPN (free version) and created an account to access VPN servers.
+
+
+2. Downloaded and installed the VPN client
+I installed the iTop VPN application on my Windows system.
+
+
+3. Connected to a VPN server
+I logged into the VPN client and connected to a server located in Miami, United States (Server #5028).
+
+
+4. Verified IP address change
+Before VPN connection: My public IP was 49.204.25.34 (Hyderabad, India).
+After VPN connection: My public IP changed to 5.34.179.92 (Miami, United States).
+This confirmed the VPN successfully masked my real IP.
+
+
+
+
+
+
+5. Tested browsing functionality
+I browsed multiple websites and confirmed that traffic was encrypted and accessible via the VPN tunnel.
+
+
+6. Disconnected VPN and compared results
+After disconnecting, my IP address reverted to 49.204.25.34 (original ISP in India), showing the VPN was no longer active.
+7. iTop VPN: Encryption & Privacy Overview
+1. Encryption & Protocols
+* iTop VPN markets itself as using "best-in-class" or "military-level" encryption, prominently featured across its website and app listings .
+
+* It offers several tunneling options, including OpenVPN (TCP/UDP) and HTTPS, providing flexibility depending on user needs .
+
+* While specifics like AES-256 are implied via their "IPsec-level protection" claim, the provider does not explicitly confirm encryption algorithms or key strengths .
+
+2. Privacy & Logging
+   * iTop VPN claims a no-logs policy, stating that it does not collect personal data such as IP addresses, DNS queries, or browsing history .
+
+   * However, the company is headquartered in Hong Kong (China), which isn't under Five/Nine/13 Eyes intelligence alliances, but still raises concerns for users requiring high levels of governmental anonymity .
+
+   * The privacy policy also allows for legal compliance: iTop may respond to warrants or subpoenas if legally compelled .
+
+3. Security Features
+      * Both free and premium users benefit from a kill switch that blocks internet traffic in case of unexpected VPN disconnection
+
+      * Split tunneling is available, but only in the premium version—this lets you select which apps use the VPN while others use your regular internet connection 
+      * Optimized servers for streaming and gaming are mentioned, designed for speed and bypassing geo-restrictions, with broader availability for premium users 
+
+
+8. Documented steps and final results
+I captured screenshots showing the successful IP change and documented my findings in this report.
+
+
+Risks and Limitations
+- Free VPNs often provide limited servers, bandwidth, and slower speeds.
+- Some websites detect and block VPN traffic.
+- Not all free VPNs guarantee strict no-log policies.
+- VPNs cannot prevent tracking through cookies or browser fingerprinting.
+
+
+Conclusion
+The VPN task was successful. I was able to change my IP address from India to the United States using iTop VPN, browse securely with encrypted traffic, and understand the key benefits and limitations of VPN technology.
